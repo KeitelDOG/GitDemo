@@ -8,5 +8,4 @@
 ### Optional
 * [x] Advanced: Add pull-to-refresh for popular stream with SwipeRefreshLayout
 
-
-![walkthrough](GitDemo.gif)
+<img src="https://github.com/KeitelDOG/GitDemo/blob/master/GitDemo.gif" title="Video Preview" alt="Video Preview">
